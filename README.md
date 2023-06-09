@@ -1,2 +1,1 @@
-# prep_course
-esto es una prueba
+este es un proyecto que estoy probando para cambiar una banda de cosas en mi vida
